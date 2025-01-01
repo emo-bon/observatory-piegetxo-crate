@@ -1,65 +1,6 @@
 diagnosis,table,column,row,value,repair,extended_diagnosis,file_path,data_type,nullable
 orcid error,wo,contact_name,1,Oihane Diaz De Cerio Arruabarrena,,orcid 0000-0002-5605-8434 corresponds to person name Oihane Diaz de cerio,/github/workspace/logsheets/filtered/water_observatory.csv,XSDString,False
 organization edmoid error,wo,organization_edmoid,1,2167,https://edmo.seadatanet.org/report/2167,organization edmoid should be a list of URIs,/github/workspace/logsheets/filtered/water_observatory.csv,EMOBONList,False
-orcid error,ws,sampl_person,1,Oihane Diaz de Cerio,,orcid 0000-0002-5605-8434 corresponds to person name Oihane Diaz de cerio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,2,Oihane Diaz de Cerio,,orcid 0000-0002-5605-8434 corresponds to person name Oihane Diaz de cerio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,3,Oihane Diaz de Cerio,,orcid 0000-0002-5605-8434 corresponds to person name Oihane Diaz de cerio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,4,Oihane Diaz de Cerio,,orcid 0000-0002-5605-8434 corresponds to person name Oihane Diaz de cerio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,5,Oihane Diaz de Cerio,,orcid 0000-0002-5605-8434 corresponds to person name Oihane Diaz de cerio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,6,Oihane Diaz de Cerio,,orcid 0000-0002-5605-8434 corresponds to person name Oihane Diaz de cerio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,7,Oihane Diaz de Cerio,,orcid 0000-0002-5605-8434 corresponds to person name Oihane Diaz de cerio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,8,Oihane Diaz de Cerio,,orcid 0000-0002-5605-8434 corresponds to person name Oihane Diaz de cerio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,9,Oihane Diaz de Cerio,,orcid 0000-0002-5605-8434 corresponds to person name Oihane Diaz de cerio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,10,Oihane Diaz de Cerio,,orcid 0000-0002-5605-8434 corresponds to person name Oihane Diaz de cerio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,11,Oihane Diaz de Cerio,,orcid 0000-0002-5605-8434 corresponds to person name Oihane Diaz de cerio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,12,Oihane Diaz de Cerio,,orcid 0000-0002-5605-8434 corresponds to person name Oihane Diaz de cerio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,13,Oihane Diaz de Cerio,,orcid 0000-0002-5605-8434 corresponds to person name Oihane Diaz de cerio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,14,Oihane Diaz de Cerio,,orcid 0000-0002-5605-8434 corresponds to person name Oihane Diaz de cerio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,15,Oihane Diaz de Cerio,,orcid 0000-0002-5605-8434 corresponds to person name Oihane Diaz de cerio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,16,Oihane Diaz de Cerio,,orcid 0000-0002-5605-8434 corresponds to person name Oihane Diaz de cerio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,17,Oihane Diaz de Cerio,,orcid 0000-0002-5605-8434 corresponds to person name Oihane Diaz de cerio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,18,Oihane Diaz de Cerio,,orcid 0000-0002-5605-8434 corresponds to person name Oihane Diaz de cerio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,19,Oihane Diaz de Cerio,,orcid 0000-0002-5605-8434 corresponds to person name Oihane Diaz de cerio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,20,Oihane Diaz de Cerio,,orcid 0000-0002-5605-8434 corresponds to person name Oihane Diaz de cerio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,21,Oihane Diaz de Cerio,,orcid 0000-0002-5605-8434 corresponds to person name Oihane Diaz de cerio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,22,Oihane Diaz de Cerio,,orcid 0000-0002-5605-8434 corresponds to person name Oihane Diaz de cerio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,23,Oihane Diaz de Cerio,,orcid 0000-0002-5605-8434 corresponds to person name Oihane Diaz de cerio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,24,Oihane Diaz de Cerio,,orcid 0000-0002-5605-8434 corresponds to person name Oihane Diaz de cerio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,25,Oihane Diaz de Cerio,,orcid 0000-0002-5605-8434 corresponds to person name Oihane Diaz de cerio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,26,Oihane Diaz de Cerio,,orcid 0000-0002-5605-8434 corresponds to person name Oihane Diaz de cerio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,27,Oihane Diaz de Cerio,,orcid 0000-0002-5605-8434 corresponds to person name Oihane Diaz de cerio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,28,Oihane Diaz de Cerio,,orcid 0000-0002-5605-8434 corresponds to person name Oihane Diaz de cerio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,29,Oihane Diaz de Cerio,,orcid 0000-0002-5605-8434 corresponds to person name Oihane Diaz de cerio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,30,Oihane Diaz de Cerio,,orcid 0000-0002-5605-8434 corresponds to person name Oihane Diaz de cerio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,31,Oihane Diaz de Cerio,,orcid 0000-0002-5605-8434 corresponds to person name Oihane Diaz de cerio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,32,Oihane Diaz de Cerio,,orcid 0000-0002-5605-8434 corresponds to person name Oihane Diaz de cerio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,33,Oihane Diaz de Cerio,,orcid 0000-0002-5605-8434 corresponds to person name Oihane Diaz de cerio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,34,Oihane Diaz de Cerio,,orcid 0000-0002-5605-8434 corresponds to person name Oihane Diaz de cerio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,35,Oihane Diaz de Cerio,,orcid 0000-0002-5605-8434 corresponds to person name Oihane Diaz de cerio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,36,Oihane Diaz de Cerio,,orcid 0000-0002-5605-8434 corresponds to person name Oihane Diaz de cerio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,37,Oihane Diaz de Cerio,,orcid 0000-0002-5605-8434 corresponds to person name Oihane Diaz de cerio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,38,Oihane Diaz de Cerio,,orcid 0000-0002-5605-8434 corresponds to person name Oihane Diaz de cerio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,39,Oihane Diaz de Cerio,,orcid 0000-0002-5605-8434 corresponds to person name Oihane Diaz de cerio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,40,Oihane Diaz de Cerio,,orcid 0000-0002-5605-8434 corresponds to person name Oihane Diaz de cerio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,41,Oihane Diaz de Cerio,,orcid 0000-0002-5605-8434 corresponds to person name Oihane Diaz de cerio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,42,Oihane Diaz de Cerio,,orcid 0000-0002-5605-8434 corresponds to person name Oihane Diaz de cerio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,43,Oihane Diaz de Cerio,,orcid 0000-0002-5605-8434 corresponds to person name Oihane Diaz de cerio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,44,Oihane Diaz de Cerio,,orcid 0000-0002-5605-8434 corresponds to person name Oihane Diaz de cerio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,45,Oihane Diaz de Cerio,,orcid 0000-0002-5605-8434 corresponds to person name Oihane Diaz de cerio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,46,Oihane Diaz de Cerio,,orcid 0000-0002-5605-8434 corresponds to person name Oihane Diaz de cerio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,47,Oihane Diaz de Cerio,,orcid 0000-0002-5605-8434 corresponds to person name Oihane Diaz de cerio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,48,Oihane Diaz de Cerio,,orcid 0000-0002-5605-8434 corresponds to person name Oihane Diaz de cerio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,49,Oihane Diaz de Cerio,,orcid 0000-0002-5605-8434 corresponds to person name Oihane Diaz de cerio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,50,Oihane Diaz de Cerio,,orcid 0000-0002-5605-8434 corresponds to person name Oihane Diaz de cerio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,51,Oihane Diaz de Cerio,,orcid 0000-0002-5605-8434 corresponds to person name Oihane Diaz de cerio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,52,Oihane Diaz de Cerio,,orcid 0000-0002-5605-8434 corresponds to person name Oihane Diaz de cerio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,53,Oihane Diaz de Cerio,,orcid 0000-0002-5605-8434 corresponds to person name Oihane Diaz de cerio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,54,Oihane Diaz de Cerio,,orcid 0000-0002-5605-8434 corresponds to person name Oihane Diaz de cerio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,55,Oihane Diaz de Cerio,,orcid 0000-0002-5605-8434 corresponds to person name Oihane Diaz de cerio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,56,Oihane Diaz de Cerio,,orcid 0000-0002-5605-8434 corresponds to person name Oihane Diaz de cerio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,57,Oihane Diaz de Cerio,,orcid 0000-0002-5605-8434 corresponds to person name Oihane Diaz de cerio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,58,Oihane Diaz de Cerio,,orcid 0000-0002-5605-8434 corresponds to person name Oihane Diaz de cerio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,59,Oihane Diaz de Cerio,,orcid 0000-0002-5605-8434 corresponds to person name Oihane Diaz de cerio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
 source_mat_id error,ws,source_mat_id,1,EMOBON_PiEGetxo_Wa_1,,source_mat_id should match ^EMOBON_PiEGetxo_Wa_210824_200um_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
 source_mat_id error,ws,source_mat_id,2,EMOBON_PiEGetxo_Wa_2,,source_mat_id should match ^EMOBON_PiEGetxo_Wa_210824_200um_2$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
 source_mat_id error,ws,source_mat_id,3,EMOBON_PiEGetxo_Wa_3,,source_mat_id should match ^EMOBON_PiEGetxo_Wa_210824_3um_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
@@ -83,30 +24,30 @@ source_mat_id error,ws,source_mat_id,20,EMOBON_PiEGetxo_Wa_20,,source_mat_id sho
 source_mat_id error,ws,source_mat_id,21,EMOBON_PiEGetxo_Wa_21,,source_mat_id should match ^EMOBON_PiEGetxo_Wa_211027_3um_4$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
 source_mat_id error,ws,source_mat_id,22,EMOBON_PiEGetxo_Wa_22,,source_mat_id should match ^EMOBON_PiEGetxo_Wa_211027_200um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
 source_mat_id error,ws,source_mat_id,23,EMOBON_PiEGetxo_Wa_23,,source_mat_id should match ^EMOBON_PiEGetxo_Wa_211027_3um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-source_mat_id error,ws,source_mat_id,24,EMOBON_PiEGetxo_Wa_24,,source_mat_id should match ^EMOBON_PiEGetxo_Wa_211027_um_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-source_mat_id error,ws,source_mat_id,25,EMOBON_PiEGetxo_Wa_25,,source_mat_id should match ^EMOBON_PiEGetxo_Wa_211027_um_2$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-source_mat_id error,ws,source_mat_id,26,EMOBON_PiEGetxo_Wa_26,,source_mat_id should match ^EMOBON_PiEGetxo_Wa_211027_um_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-source_mat_id error,ws,source_mat_id,27,EMOBON_PiEGetxo_Wa_27,,source_mat_id should match ^EMOBON_PiEGetxo_Wa_211027_um_2$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-source_mat_id error,ws,source_mat_id,28,EMOBON_PiEGetxo_Wa_28,,source_mat_id should match ^EMOBON_PiEGetxo_Wa_211027_um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-source_mat_id error,ws,source_mat_id,29,EMOBON_PiEGetxo_Wa_29,,source_mat_id should match ^EMOBON_PiEGetxo_Wa_211027_um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-source_mat_id error,ws,source_mat_id,30,EMOBON_PiEGetxo_Wa_30,,source_mat_id should match ^EMOBON_PiEGetxo_Wa_211027_um_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-source_mat_id error,ws,source_mat_id,31,EMOBON_PiEGetxo_Wa_31,,source_mat_id should match ^EMOBON_PiEGetxo_Wa_211027_um_2$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-source_mat_id error,ws,source_mat_id,32,EMOBON_PiEGetxo_Wa_32,,source_mat_id should match ^EMOBON_PiEGetxo_Wa_211027_um_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-source_mat_id error,ws,source_mat_id,33,EMOBON_PiEGetxo_Wa_33,,source_mat_id should match ^EMOBON_PiEGetxo_Wa_211027_um_2$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-source_mat_id error,ws,source_mat_id,34,EMOBON_PiEGetxo_Wa_34,,source_mat_id should match ^EMOBON_PiEGetxo_Wa_211027_um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-source_mat_id error,ws,source_mat_id,35,EMOBON_PiEGetxo_Wa_35,,source_mat_id should match ^EMOBON_PiEGetxo_Wa_211027_um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-source_mat_id error,ws,source_mat_id,36,EMOBON_PiEGetxo_Wa_36,,source_mat_id should match ^EMOBON_PiEGetxo_Wa_211222_um_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-source_mat_id error,ws,source_mat_id,37,EMOBON_PiEGetxo_Wa_37,,source_mat_id should match ^EMOBON_PiEGetxo_Wa_211222_um_2$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-source_mat_id error,ws,source_mat_id,38,EMOBON_PiEGetxo_Wa_38,,source_mat_id should match ^EMOBON_PiEGetxo_Wa_211222_um_3$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-source_mat_id error,ws,source_mat_id,39,EMOBON_PiEGetxo_Wa_39,,source_mat_id should match ^EMOBON_PiEGetxo_Wa_211222_um_4$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-source_mat_id error,ws,source_mat_id,40,EMOBON_PiEGetxo_Wa_40,,source_mat_id should match ^EMOBON_PiEGetxo_Wa_211222_um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-source_mat_id error,ws,source_mat_id,41,EMOBON_PiEGetxo_Wa_41,,source_mat_id should match ^EMOBON_PiEGetxo_Wa_211222_um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-source_mat_id error,ws,source_mat_id,42,EMOBON_PiEGetxo_Wa_42,,source_mat_id should match ^EMOBON_PiEGetxo_Wa_211222_um_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-source_mat_id error,ws,source_mat_id,43,EMOBON_PiEGetxo_Wa_43,,source_mat_id should match ^EMOBON_PiEGetxo_Wa_211222_um_2$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-source_mat_id error,ws,source_mat_id,44,EMOBON_PiEGetxo_Wa_44,,source_mat_id should match ^EMOBON_PiEGetxo_Wa_211222_um_3$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-source_mat_id error,ws,source_mat_id,45,EMOBON_PiEGetxo_Wa_45,,source_mat_id should match ^EMOBON_PiEGetxo_Wa_211222_um_4$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-source_mat_id error,ws,source_mat_id,46,EMOBON_PiEGetxo_Wa_46,,source_mat_id should match ^EMOBON_PiEGetxo_Wa_211222_um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-source_mat_id error,ws,source_mat_id,47,EMOBON_PiEGetxo_Wa_47,,source_mat_id should match ^EMOBON_PiEGetxo_Wa_211222_um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+source_mat_id error,ws,source_mat_id,24,EMOBON_PiEGetxo_Wa_24,,source_mat_id should match ^EMOBON_PiEGetxo_Wa_211027_200um_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+source_mat_id error,ws,source_mat_id,25,EMOBON_PiEGetxo_Wa_25,,source_mat_id should match ^EMOBON_PiEGetxo_Wa_211027_200um_2$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+source_mat_id error,ws,source_mat_id,26,EMOBON_PiEGetxo_Wa_26,,source_mat_id should match ^EMOBON_PiEGetxo_Wa_211027_200um_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+source_mat_id error,ws,source_mat_id,27,EMOBON_PiEGetxo_Wa_27,,source_mat_id should match ^EMOBON_PiEGetxo_Wa_211027_200um_2$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+source_mat_id error,ws,source_mat_id,28,EMOBON_PiEGetxo_Wa_28,,source_mat_id should match ^EMOBON_PiEGetxo_Wa_211027_200um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+source_mat_id error,ws,source_mat_id,29,EMOBON_PiEGetxo_Wa_29,,source_mat_id should match ^EMOBON_PiEGetxo_Wa_211027_200um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+source_mat_id error,ws,source_mat_id,30,EMOBON_PiEGetxo_Wa_30,,source_mat_id should match ^EMOBON_PiEGetxo_Wa_211027_500um_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+source_mat_id error,ws,source_mat_id,31,EMOBON_PiEGetxo_Wa_31,,source_mat_id should match ^EMOBON_PiEGetxo_Wa_211027_500um_2$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+source_mat_id error,ws,source_mat_id,32,EMOBON_PiEGetxo_Wa_32,,source_mat_id should match ^EMOBON_PiEGetxo_Wa_211027_500um_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+source_mat_id error,ws,source_mat_id,33,EMOBON_PiEGetxo_Wa_33,,source_mat_id should match ^EMOBON_PiEGetxo_Wa_211027_500um_2$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+source_mat_id error,ws,source_mat_id,34,EMOBON_PiEGetxo_Wa_34,,source_mat_id should match ^EMOBON_PiEGetxo_Wa_211027_500um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+source_mat_id error,ws,source_mat_id,35,EMOBON_PiEGetxo_Wa_35,,source_mat_id should match ^EMOBON_PiEGetxo_Wa_211027_500um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+source_mat_id error,ws,source_mat_id,36,EMOBON_PiEGetxo_Wa_36,,source_mat_id should match ^EMOBON_PiEGetxo_Wa_211222_200um_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+source_mat_id error,ws,source_mat_id,37,EMOBON_PiEGetxo_Wa_37,,source_mat_id should match ^EMOBON_PiEGetxo_Wa_211222_200um_2$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+source_mat_id error,ws,source_mat_id,38,EMOBON_PiEGetxo_Wa_38,,source_mat_id should match ^EMOBON_PiEGetxo_Wa_211222_200um_3$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+source_mat_id error,ws,source_mat_id,39,EMOBON_PiEGetxo_Wa_39,,source_mat_id should match ^EMOBON_PiEGetxo_Wa_211222_200um_4$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+source_mat_id error,ws,source_mat_id,40,EMOBON_PiEGetxo_Wa_40,,source_mat_id should match ^EMOBON_PiEGetxo_Wa_211222_200um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+source_mat_id error,ws,source_mat_id,41,EMOBON_PiEGetxo_Wa_41,,source_mat_id should match ^EMOBON_PiEGetxo_Wa_211222_200um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+source_mat_id error,ws,source_mat_id,42,EMOBON_PiEGetxo_Wa_42,,source_mat_id should match ^EMOBON_PiEGetxo_Wa_211222_500um_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+source_mat_id error,ws,source_mat_id,43,EMOBON_PiEGetxo_Wa_43,,source_mat_id should match ^EMOBON_PiEGetxo_Wa_211222_500um_2$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+source_mat_id error,ws,source_mat_id,44,EMOBON_PiEGetxo_Wa_44,,source_mat_id should match ^EMOBON_PiEGetxo_Wa_211222_500um_3$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+source_mat_id error,ws,source_mat_id,45,EMOBON_PiEGetxo_Wa_45,,source_mat_id should match ^EMOBON_PiEGetxo_Wa_211222_500um_4$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+source_mat_id error,ws,source_mat_id,46,EMOBON_PiEGetxo_Wa_46,,source_mat_id should match ^EMOBON_PiEGetxo_Wa_211222_500um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
+source_mat_id error,ws,source_mat_id,47,EMOBON_PiEGetxo_Wa_47,,source_mat_id should match ^EMOBON_PiEGetxo_Wa_211222_500um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
 source_mat_id error,ws,source_mat_id,48,EMOBON_PiEGetxo_Wa_48,,source_mat_id should match ^EMOBON_PiEGetxo_Wa_211222_200um_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
 source_mat_id error,ws,source_mat_id,49,EMOBON_PiEGetxo_Wa_49,,source_mat_id should match ^EMOBON_PiEGetxo_Wa_211222_200um_2$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
 source_mat_id error,ws,source_mat_id,50,EMOBON_PiEGetxo_Wa_50,,source_mat_id should match ^EMOBON_PiEGetxo_Wa_211222_3um_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
@@ -119,65 +60,6 @@ source_mat_id error,ws,source_mat_id,56,EMOBON_PiEGetxo_Wa_56,,source_mat_id sho
 source_mat_id error,ws,source_mat_id,57,EMOBON_PiEGetxo_Wa_57,,source_mat_id should match ^EMOBON_PiEGetxo_Wa_211222_3um_4$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
 source_mat_id error,ws,source_mat_id,58,EMOBON_PiEGetxo_Wa_58,,source_mat_id should match ^EMOBON_PiEGetxo_Wa_211222_200um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
 source_mat_id error,ws,source_mat_id,59,EMOBON_PiEGetxo_Wa_59,,source_mat_id should match ^EMOBON_PiEGetxo_Wa_211222_3um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,store_person,1,Xabier Lecube,,orcid 0000-0002-1005-4593 corresponds to person name Xabier Lekube,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,store_person,2,Xabier Lecube,,orcid 0000-0002-1005-4593 corresponds to person name Xabier Lekube,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,store_person,3,Xabier Lecube,,orcid 0000-0002-1005-4593 corresponds to person name Xabier Lekube,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,store_person,4,Xabier Lecube,,orcid 0000-0002-1005-4593 corresponds to person name Xabier Lekube,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,store_person,5,Xabier Lecube,,orcid 0000-0002-1005-4593 corresponds to person name Xabier Lekube,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,store_person,6,Xabier Lecube,,orcid 0000-0002-1005-4593 corresponds to person name Xabier Lekube,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,store_person,7,Xabier Lecube,,orcid 0000-0002-1005-4593 corresponds to person name Xabier Lekube,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,store_person,8,Xabier Lecube,,orcid 0000-0002-1005-4593 corresponds to person name Xabier Lekube,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,store_person,9,Xabier Lecube,,orcid 0000-0002-1005-4593 corresponds to person name Xabier Lekube,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,store_person,10,Xabier Lecube,,orcid 0000-0002-1005-4593 corresponds to person name Xabier Lekube,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,store_person,11,Xabier Lecube,,orcid 0000-0002-1005-4593 corresponds to person name Xabier Lekube,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,store_person,12,Xabier Lecube,,orcid 0000-0002-1005-4593 corresponds to person name Xabier Lekube,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,store_person,13,Xabier Lecube,,orcid 0000-0002-1005-4593 corresponds to person name Xabier Lekube,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,store_person,14,Xabier Lecube,,orcid 0000-0002-1005-4593 corresponds to person name Xabier Lekube,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,store_person,15,Xabier Lecube,,orcid 0000-0002-1005-4593 corresponds to person name Xabier Lekube,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,store_person,16,Xabier Lecube,,orcid 0000-0002-1005-4593 corresponds to person name Xabier Lekube,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,store_person,17,Xabier Lecube,,orcid 0000-0002-1005-4593 corresponds to person name Xabier Lekube,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,store_person,18,Xabier Lecube,,orcid 0000-0002-1005-4593 corresponds to person name Xabier Lekube,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,store_person,19,Xabier Lecube,,orcid 0000-0002-1005-4593 corresponds to person name Xabier Lekube,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,store_person,20,Xabier Lecube,,orcid 0000-0002-1005-4593 corresponds to person name Xabier Lekube,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,store_person,21,Xabier Lecube,,orcid 0000-0002-1005-4593 corresponds to person name Xabier Lekube,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,store_person,22,Xabier Lecube,,orcid 0000-0002-1005-4593 corresponds to person name Xabier Lekube,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,store_person,23,Xabier Lecube,,orcid 0000-0002-1005-4593 corresponds to person name Xabier Lekube,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,store_person,24,Xabier Lecube,,orcid 0000-0002-1005-4593 corresponds to person name Xabier Lekube,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,store_person,25,Xabier Lecube,,orcid 0000-0002-1005-4593 corresponds to person name Xabier Lekube,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,store_person,26,Xabier Lecube,,orcid 0000-0002-1005-4593 corresponds to person name Xabier Lekube,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,store_person,27,Xabier Lecube,,orcid 0000-0002-1005-4593 corresponds to person name Xabier Lekube,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,store_person,28,Xabier Lecube,,orcid 0000-0002-1005-4593 corresponds to person name Xabier Lekube,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,store_person,29,Xabier Lecube,,orcid 0000-0002-1005-4593 corresponds to person name Xabier Lekube,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,store_person,30,Xabier Lecube,,orcid 0000-0002-1005-4593 corresponds to person name Xabier Lekube,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,store_person,31,Xabier Lecube,,orcid 0000-0002-1005-4593 corresponds to person name Xabier Lekube,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,store_person,32,Xabier Lecube,,orcid 0000-0002-1005-4593 corresponds to person name Xabier Lekube,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,store_person,33,Xabier Lecube,,orcid 0000-0002-1005-4593 corresponds to person name Xabier Lekube,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,store_person,34,Xabier Lecube,,orcid 0000-0002-1005-4593 corresponds to person name Xabier Lekube,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,store_person,35,Xabier Lecube,,orcid 0000-0002-1005-4593 corresponds to person name Xabier Lekube,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,store_person,36,Xabier Lecube,,orcid 0000-0002-1005-4593 corresponds to person name Xabier Lekube,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,store_person,37,Xabier Lecube,,orcid 0000-0002-1005-4593 corresponds to person name Xabier Lekube,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,store_person,38,Xabier Lecube,,orcid 0000-0002-1005-4593 corresponds to person name Xabier Lekube,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,store_person,39,Xabier Lecube,,orcid 0000-0002-1005-4593 corresponds to person name Xabier Lekube,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,store_person,40,Xabier Lecube,,orcid 0000-0002-1005-4593 corresponds to person name Xabier Lekube,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,store_person,41,Xabier Lecube,,orcid 0000-0002-1005-4593 corresponds to person name Xabier Lekube,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,store_person,42,Xabier Lecube,,orcid 0000-0002-1005-4593 corresponds to person name Xabier Lekube,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,store_person,43,Xabier Lecube,,orcid 0000-0002-1005-4593 corresponds to person name Xabier Lekube,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,store_person,44,Xabier Lecube,,orcid 0000-0002-1005-4593 corresponds to person name Xabier Lekube,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,store_person,45,Xabier Lecube,,orcid 0000-0002-1005-4593 corresponds to person name Xabier Lekube,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,store_person,46,Xabier Lecube,,orcid 0000-0002-1005-4593 corresponds to person name Xabier Lekube,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,store_person,47,Xabier Lecube,,orcid 0000-0002-1005-4593 corresponds to person name Xabier Lekube,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,store_person,48,Xabier Lecube,,orcid 0000-0002-1005-4593 corresponds to person name Xabier Lekube,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,store_person,49,Xabier Lecube,,orcid 0000-0002-1005-4593 corresponds to person name Xabier Lekube,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,store_person,50,Xabier Lecube,,orcid 0000-0002-1005-4593 corresponds to person name Xabier Lekube,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,store_person,51,Xabier Lecube,,orcid 0000-0002-1005-4593 corresponds to person name Xabier Lekube,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,store_person,52,Xabier Lecube,,orcid 0000-0002-1005-4593 corresponds to person name Xabier Lekube,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,store_person,53,Xabier Lecube,,orcid 0000-0002-1005-4593 corresponds to person name Xabier Lekube,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,store_person,54,Xabier Lecube,,orcid 0000-0002-1005-4593 corresponds to person name Xabier Lekube,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,store_person,55,Xabier Lecube,,orcid 0000-0002-1005-4593 corresponds to person name Xabier Lekube,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,store_person,56,Xabier Lecube,,orcid 0000-0002-1005-4593 corresponds to person name Xabier Lekube,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,store_person,57,Xabier Lecube,,orcid 0000-0002-1005-4593 corresponds to person name Xabier Lekube,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,store_person,58,Xabier Lecube,,orcid 0000-0002-1005-4593 corresponds to person name Xabier Lekube,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,store_person,59,Xabier Lecube,,orcid 0000-0002-1005-4593 corresponds to person name Xabier Lekube,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
 datatype mismatch,wo,contact_orcid,1,0000-0002-5605-8434,https://orcid.org/0000-0002-5605-8434,,/github/workspace/logsheets/filtered/water_observatory.csv,XSDAnyURI,True
 datatype mismatch,wo,loc_broad_ocean_mrgid,1,1912,http://marineregions.org/mrgid/1912,,/github/workspace/logsheets/filtered/water_observatory.csv,XSDAnyURI,False
 datatype mismatch,wo,loc_loc_mrgid,1,17355,http://marineregions.org/mrgid/17355,,/github/workspace/logsheets/filtered/water_observatory.csv,XSDAnyURI,False
@@ -536,30 +418,6 @@ datatype mismatch,ws,ship_date_seq,48,2022-02-22 00:00:00,2022-02-22,,/github/wo
 datatype mismatch,ws,ship_date_seq,49,2022-02-22 00:00:00,2022-02-22,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
 datatype mismatch,ws,ship_date_seq,50,2022-02-22 00:00:00,2022-02-22,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
 datatype mismatch,ws,ship_date_seq,51,2022-02-22 00:00:00,2022-02-22,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
-missing value,ws,size_frac_up,24,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDFloat,False
-missing value,ws,size_frac_up,25,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDFloat,False
-missing value,ws,size_frac_up,26,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDFloat,False
-missing value,ws,size_frac_up,27,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDFloat,False
-missing value,ws,size_frac_up,28,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDFloat,False
-missing value,ws,size_frac_up,29,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDFloat,False
-missing value,ws,size_frac_up,30,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDFloat,False
-missing value,ws,size_frac_up,31,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDFloat,False
-missing value,ws,size_frac_up,32,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDFloat,False
-missing value,ws,size_frac_up,33,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDFloat,False
-missing value,ws,size_frac_up,34,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDFloat,False
-missing value,ws,size_frac_up,35,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDFloat,False
-missing value,ws,size_frac_up,36,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDFloat,False
-missing value,ws,size_frac_up,37,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDFloat,False
-missing value,ws,size_frac_up,38,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDFloat,False
-missing value,ws,size_frac_up,39,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDFloat,False
-missing value,ws,size_frac_up,40,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDFloat,False
-missing value,ws,size_frac_up,41,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDFloat,False
-missing value,ws,size_frac_up,42,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDFloat,False
-missing value,ws,size_frac_up,43,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDFloat,False
-missing value,ws,size_frac_up,44,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDFloat,False
-missing value,ws,size_frac_up,45,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDFloat,False
-missing value,ws,size_frac_up,46,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDFloat,False
-missing value,ws,size_frac_up,47,,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDFloat,False
 datatype mismatch,ws,store_person_orcid,1,0000-0002-1005-4593,https://orcid.org/0000-0002-1005-4593,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDAnyURI,True
 datatype mismatch,ws,store_person_orcid,2,0000-0002-1005-4593,https://orcid.org/0000-0002-1005-4593,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDAnyURI,True
 datatype mismatch,ws,store_person_orcid,3,0000-0002-1005-4593,https://orcid.org/0000-0002-1005-4593,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDAnyURI,True

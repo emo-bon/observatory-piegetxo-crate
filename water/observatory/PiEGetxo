@@ -1,0 +1,83 @@
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> . 
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> . 
+@prefix prov: <http://www.w3.org/ns/prov#> . 
+@prefix sosa: <http://www.w3.org/ns/sosa/> . 
+@prefix ssn: <http://www.w3.org/ns/ssn/> . 
+@prefix qudt: <http://qudt.org/schema/qudt/> . 
+@prefix sf: <http://www.opengis.net/ont/sf#> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix mr: <http://marineregions.org/ns/ontology#> .
+@prefix emobon-sequence: <https://data.emobon.embrc.eu/ns/sequence#> .
+@prefix emobon-core: <https://data.emobon.embrc.eu/ns/core#> .
+@prefix emobon-sampling: <https://data.emobon.embrc.eu/ns/sampling#> .
+@prefix core_vocab: <https://data.emobon.embrc.eu/ns/core_vocab#> .
+@prefix csvw: <http://www.w3.org/ns/csvw#>.
+
+@base <http://data.emobon.embrc.eu/observatory-piegetxo-crate/water/observatory/PiEGetxo> . 
+
+<> 
+    a emobon-core:Observatory ; 
+    emobon-core:sampleType <https://data.emobon.embrc.eu/ns/core_vocab#water> ;
+    emobon-core:observatoryId 'PiEGetxo'^^xsd:string ;
+    emobon-core:observatorySampleId 'PiEGetxo Wa'^^xsd:string ; 
+
+    dct:isPartOf [
+        a schema:Project ;
+        schema:name 'EMOBON'^^xsd:string ;
+        schema:description "The EMO BON project"^^xsd:string ;
+        emobon-core:enaProjAccNum 'https://www.ebi.ac.uk/ena/browser/view/PRJEB51688'^^xsd:anyURI ;
+    ] ;
+    emobon-core:siteInfo 'The selected sampling site is a Marina, close to the main port of Bilbao (Basque Coast, Southern Bay of Biscay). The same site has been sampled in previous years for OSD2019; and OSD2020x12 and for ARMs (2019 and 2020). There are occasional red algal blooms in June and phytoplakton blooms occur normaly from March to April. Monitoring activities in the area include: chemical burden metals and PAHs (sediment and molluscs), acidification, zoo- and phytoplankton diversity, biological effects monitoring'^^xsd:string ;
+    emobon-core:broadBiome  'marine%20biome%20%5BENVO:00000447%5D'^^xsd:anyURI,  'estuarine%20biome%20%5BENVO:01000020%5D'^^xsd:anyURI;
+    emobon-core:localBiome 'marine%20pelagic%20feature%20%5BENVO:01000044%5D'^^xsd:anyURI, 'marine%20water%20body%20%5BENVO:00001999%5D'^^xsd:anyURI, 'harbor%5BENVO:00000463%5D'^^xsd:anyURI;
+    emobon-core:marineRegionName 'North Atlantic Ocean'^^xsd:string ;
+    emobon-core:marineRegion 'http://marineregions.org/mrgid/1912'^^xsd:anyURI ;
+    emobon-core:marineRegionName 'Bay of Biscay'^^xsd:string ;
+    emobon-core:marineRegion 'http://marineregions.org/mrgid/2359'^^xsd:anyURI ;
+    emobon-core:marineRegionName 'Abra de Bilbao'^^xsd:string ;
+    emobon-core:marineRegion 'http://marineregions.org/mrgid/17355'^^xsd:anyURI ;
+    emobon-core:geoLocation [ 
+        a sf:Point ; 
+        geo:asWKT "<http://www.opengis.net/def/crs/OGC/1.3/CRS84> Point (43.338583 -3.014639)" ;
+    ]; 
+    schema:contactPoint [ 
+        a emobon-core:Organization ;
+        schema:legalName 'Research Centre for Experimental Marine Biology and Biotechnology, Plentzia Marine Station'^^xsd:string ;
+        emobon-core:edmoId 'https://edmo.seadatanet.org/report/2167'^^xsd:anyURI ;
+        schema:address [
+            a schema:PostalAddress ;
+            schema:addressCountry 'Spain'^^xsd:string ; 
+        schema:member [
+            a schema:Person ;
+            schema:name 'Oihane Diaz De Cerio Arruabarrena'^^xsd:string ;
+            schema:email 'oihane.diazdecerio@ehu.eus'^^xsd:string ;
+            schema:identifier 'https://orcid.org/0000-0002-5605-8434'^^xsd:anyURI ;
+        ]
+        ] ; 
+    ] ;
+    emobon-core:waterColumnDepth [
+        a qudt:QuantityValue ;
+            qudt:numericValue '10.0'^^xsd:double ;
+            qudt:unit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/> ;
+        ] ;
+    emobon-core:originCountry 'Spain'^^xsd:string ;
+    emobon-core:enaStudyAccNum 'https://www.ebi.ac.uk/ena/browser/view/PRJEB51660'^^xsd:anyURI ;
+    emobon-core:hasMixsPackage 'water'^^xsd:string ; 
+.
+
+
+<http://marineregions.org/mrgid/http://marineregions.org/mrgid/1912>
+    mr:contains <http://marineregions.org/mrgid/> ;
+.
+
+<http://marineregions.org/mrgid/http://marineregions.org/mrgid/2359>
+    mr:contains <http://marineregions.org/mrgid/http://marineregions.org/mrgid/17355> ;
+    mr:isPartOf <http://marineregions.org/mrgid/http://marineregions.org/mrgid/1912> ; 
+.
+
+<http://marineregions.org/mrgid/http://marineregions.org/mrgid/17355>
+    mr:isPartOf <http://marineregions.org/mrgid/http://marineregions.org/mrgid/2359> ;
+.

@@ -1,5 +1,17 @@
 Diagnosis,LogsheetType,LogsheetTab,Column,Row,Value,ExtendedDiagnosis,FilePath,DataType,Requirement
 orcid error,water,observatory,contact_name,1,Oihane Diaz De Cerio Arruabarrena,orcid 0000-0002-5605-8434 corresponds to person name Oihane Diaz de cerio,/github/workspace/logsheets/filtered/water_observatory.csv,XSDString,mandatory
+orcid error,water,sampling,sampl_person,96,Ibon Cancio Uriarte,orcid 0000-0003-4841-0079 corresponds to person name Ibon Cancio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+orcid error,water,sampling,sampl_person,97,Ibon Cancio Uriarte,orcid 0000-0003-4841-0079 corresponds to person name Ibon Cancio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+orcid error,water,sampling,sampl_person,98,Ibon Cancio Uriarte,orcid 0000-0003-4841-0079 corresponds to person name Ibon Cancio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+orcid error,water,sampling,sampl_person,99,Ibon Cancio Uriarte,orcid 0000-0003-4841-0079 corresponds to person name Ibon Cancio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+orcid error,water,sampling,sampl_person,100,Ibon Cancio Uriarte,orcid 0000-0003-4841-0079 corresponds to person name Ibon Cancio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+orcid error,water,sampling,sampl_person,101,Ibon Cancio Uriarte,orcid 0000-0003-4841-0079 corresponds to person name Ibon Cancio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+orcid error,water,sampling,sampl_person,102,Ibon Cancio Uriarte,orcid 0000-0003-4841-0079 corresponds to person name Ibon Cancio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+orcid error,water,sampling,sampl_person,103,Ibon Cancio Uriarte,orcid 0000-0003-4841-0079 corresponds to person name Ibon Cancio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+orcid error,water,sampling,sampl_person,104,Ibon Cancio Uriarte,orcid 0000-0003-4841-0079 corresponds to person name Ibon Cancio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+orcid error,water,sampling,sampl_person,105,Ibon Cancio Uriarte,orcid 0000-0003-4841-0079 corresponds to person name Ibon Cancio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+orcid error,water,sampling,sampl_person,106,Ibon Cancio Uriarte,orcid 0000-0003-4841-0079 corresponds to person name Ibon Cancio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+orcid error,water,sampling,sampl_person,107,Ibon Cancio Uriarte,orcid 0000-0003-4841-0079 corresponds to person name Ibon Cancio,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
 source_mat_id error,water,sampling,source_mat_id,1,EMOBON_PiEGetxo_Wa_1,source_mat_id should match ^EMOBON_PiEGetxo_Wa_210824_200um_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
 source_mat_id error,water,sampling,source_mat_id,2,EMOBON_PiEGetxo_Wa_2,source_mat_id should match ^EMOBON_PiEGetxo_Wa_210824_200um_2$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
 source_mat_id error,water,sampling,source_mat_id,3,EMOBON_PiEGetxo_Wa_3,source_mat_id should match ^EMOBON_PiEGetxo_Wa_210824_3um_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
@@ -59,4 +71,92 @@ source_mat_id error,water,sampling,source_mat_id,56,EMOBON_PiEGetxo_Wa_56,source
 source_mat_id error,water,sampling,source_mat_id,57,EMOBON_PiEGetxo_Wa_57,source_mat_id should match ^EMOBON_PiEGetxo_Wa_211222_3um_4$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
 source_mat_id error,water,sampling,source_mat_id,58,EMOBON_PiEGetxo_Wa_58,source_mat_id should match ^EMOBON_PiEGetxo_Wa_211222_200um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
 source_mat_id error,water,sampling,source_mat_id,59,EMOBON_PiEGetxo_Wa_59,source_mat_id should match ^EMOBON_PiEGetxo_Wa_211222_3um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,60,EMOBON_PiEGetxo_Wa_60,source_mat_id should match ^EMOBON_PiEGetxo_Wa_220221_200um_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,61,EMOBON_PiEGetxo_Wa_61,source_mat_id should match ^EMOBON_PiEGetxo_Wa_220221_200um_2$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,62,EMOBON_PiEGetxo_Wa_62,source_mat_id should match ^EMOBON_PiEGetxo_Wa_220221_3um_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,63,EMOBON_PiEGetxo_Wa_63,source_mat_id should match ^EMOBON_PiEGetxo_Wa_220221_3um_2$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,64,EMOBON_PiEGetxo_Wa_64,source_mat_id should match ^EMOBON_PiEGetxo_Wa_220221_200um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,65,EMOBON_PiEGetxo_Wa_65,source_mat_id should match ^EMOBON_PiEGetxo_Wa_220221_3um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,66,EMOBON_PiEGetxo_Wa_66,source_mat_id should match ^EMOBON_PiEGetxo_Wa_220221_200um_3$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,67,EMOBON_PiEGetxo_Wa_67,source_mat_id should match ^EMOBON_PiEGetxo_Wa_220221_200um_4$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,68,EMOBON_PiEGetxo_Wa_68,source_mat_id should match ^EMOBON_PiEGetxo_Wa_220221_3um_3$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,69,EMOBON_PiEGetxo_Wa_69,source_mat_id should match ^EMOBON_PiEGetxo_Wa_220221_3um_4$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,70,EMOBON_PiEGetxo_Wa_70,source_mat_id should match ^EMOBON_PiEGetxo_Wa_220221_200um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,71,EMOBON_PiEGetxo_Wa_71,source_mat_id should match ^EMOBON_PiEGetxo_Wa_220221_3um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,72,EMOBON_PiEGetxo_Wa_72,source_mat_id should match ^EMOBON_PiEGetxo_Wa_220425_200um_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,73,EMOBON_PiEGetxo_Wa_73,source_mat_id should match ^EMOBON_PiEGetxo_Wa_220425_200um_2$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,74,EMOBON_PiEGetxo_Wa_74,source_mat_id should match ^EMOBON_PiEGetxo_Wa_220425_3um_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,75,EMOBON_PiEGetxo_Wa_75,source_mat_id should match ^EMOBON_PiEGetxo_Wa_220425_3um_2$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,76,EMOBON_PiEGetxo_Wa_76,source_mat_id should match ^EMOBON_PiEGetxo_Wa_220425_200um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,77,EMOBON_PiEGetxo_Wa_77,source_mat_id should match ^EMOBON_PiEGetxo_Wa_220425_3um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,78,EMOBON_PiEGetxo_Wa_78,source_mat_id should match ^EMOBON_PiEGetxo_Wa_220425_200um_3$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,79,EMOBON_PiEGetxo_Wa_79,source_mat_id should match ^EMOBON_PiEGetxo_Wa_220425_200um_4$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,80,EMOBON_PiEGetxo_Wa_80,source_mat_id should match ^EMOBON_PiEGetxo_Wa_220425_3um_3$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,81,EMOBON_PiEGetxo_Wa_81,source_mat_id should match ^EMOBON_PiEGetxo_Wa_220425_3um_4$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,82,EMOBON_PiEGetxo_Wa_82,source_mat_id should match ^EMOBON_PiEGetxo_Wa_220425_200um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,83,EMOBON_PiEGetxo_Wa_83,source_mat_id should match ^EMOBON_PiEGetxo_Wa_220425_3um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,84,EMOBON_PiEGetxo_Wa_84,source_mat_id should match ^EMOBON_PiEGetxo_Wa_220622_200um_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,85,EMOBON_PiEGetxo_Wa_85,source_mat_id should match ^EMOBON_PiEGetxo_Wa_220622_200um_2$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,86,EMOBON_PiEGetxo_Wa_86,source_mat_id should match ^EMOBON_PiEGetxo_Wa_220622_3um_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,87,EMOBON_PiEGetxo_Wa_87,source_mat_id should match ^EMOBON_PiEGetxo_Wa_220622_3um_2$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,88,EMOBON_PiEGetxo_Wa_88,source_mat_id should match ^EMOBON_PiEGetxo_Wa_220622_200um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,89,EMOBON_PiEGetxo_Wa_89,source_mat_id should match ^EMOBON_PiEGetxo_Wa_220622_3um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,90,EMOBON_PiEGetxo_Wa_90,source_mat_id should match ^EMOBON_PiEGetxo_Wa_220622_200um_3$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,91,EMOBON_PiEGetxo_Wa_91,source_mat_id should match ^EMOBON_PiEGetxo_Wa_220622_200um_4$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,92,EMOBON_PiEGetxo_Wa_92,source_mat_id should match ^EMOBON_PiEGetxo_Wa_220622_3um_3$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,93,EMOBON_PiEGetxo_Wa_93,source_mat_id should match ^EMOBON_PiEGetxo_Wa_220622_3um_4$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,94,EMOBON_PiEGetxo_Wa_94,source_mat_id should match ^EMOBON_PiEGetxo_Wa_220622_200um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,95,EMOBON_PiEGetxo_Wa_95,source_mat_id should match ^EMOBON_PiEGetxo_Wa_220622_3um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,96,EMOBON_PiEGetxo_Wa_96,source_mat_id should match ^EMOBON_PiEGetxo_Wa_220823_200um_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,97,EMOBON_PiEGetxo_Wa_97,source_mat_id should match ^EMOBON_PiEGetxo_Wa_220823_200um_2$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,98,EMOBON_PiEGetxo_Wa_98,source_mat_id should match ^EMOBON_PiEGetxo_Wa_220823_3um_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,99,EMOBON_PiEGetxo_Wa_99,source_mat_id should match ^EMOBON_PiEGetxo_Wa_220823_3um_2$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,100,EMOBON_PiEGetxo_Wa_100,source_mat_id should match ^EMOBON_PiEGetxo_Wa_220823_200um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,101,EMOBON_PiEGetxo_Wa_101,source_mat_id should match ^EMOBON_PiEGetxo_Wa_220823_3um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,102,EMOBON_PiEGetxo_Wa_102,source_mat_id should match ^EMOBON_PiEGetxo_Wa_220823_200um_3$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,103,EMOBON_PiEGetxo_Wa_103,source_mat_id should match ^EMOBON_PiEGetxo_Wa_220823_200um_4$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,104,EMOBON_PiEGetxo_Wa_104,source_mat_id should match ^EMOBON_PiEGetxo_Wa_220823_3um_3$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,105,EMOBON_PiEGetxo_Wa_105,source_mat_id should match ^EMOBON_PiEGetxo_Wa_220823_3um_4$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,106,EMOBON_PiEGetxo_Wa_106,source_mat_id should match ^EMOBON_PiEGetxo_Wa_220823_200um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,107,EMOBON_PiEGetxo_Wa_107,source_mat_id should match ^EMOBON_PiEGetxo_Wa_220823_3um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,108,EMOBON_PiEGetxo_Wa_108,source_mat_id should match ^EMOBON_PiEGetxo_Wa_221024_200um_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,109,EMOBON_PiEGetxo_Wa_109,source_mat_id should match ^EMOBON_PiEGetxo_Wa_221024_200um_2$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,110,EMOBON_PiEGetxo_Wa_110,source_mat_id should match ^EMOBON_PiEGetxo_Wa_221024_3um_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,111,EMOBON_PiEGetxo_Wa_111,source_mat_id should match ^EMOBON_PiEGetxo_Wa_221024_3um_2$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,112,EMOBON_PiEGetxo_Wa_112,source_mat_id should match ^EMOBON_PiEGetxo_Wa_221024_200um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,113,EMOBON_PiEGetxo_Wa_113,source_mat_id should match ^EMOBON_PiEGetxo_Wa_221024_3um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,114,EMOBON_PiEGetxo_Wa_114,source_mat_id should match ^EMOBON_PiEGetxo_Wa_221024_200um_3$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,115,EMOBON_PiEGetxo_Wa_115,source_mat_id should match ^EMOBON_PiEGetxo_Wa_221024_200um_4$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,116,EMOBON_PiEGetxo_Wa_116,source_mat_id should match ^EMOBON_PiEGetxo_Wa_221024_3um_3$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,117,EMOBON_PiEGetxo_Wa_117,source_mat_id should match ^EMOBON_PiEGetxo_Wa_221024_3um_4$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,118,EMOBON_PiEGetxo_Wa_118,source_mat_id should match ^EMOBON_PiEGetxo_Wa_221024_200um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,119,EMOBON_PiEGetxo_Wa_119,source_mat_id should match ^EMOBON_PiEGetxo_Wa_221024_3um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,120,EMOBON_PiEGetxo_Wa_120,source_mat_id should match ^EMOBON_PiEGetxo_Wa_221220_200um_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,121,EMOBON_PiEGetxo_Wa_121,source_mat_id should match ^EMOBON_PiEGetxo_Wa_221220_200um_2$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,122,EMOBON_PiEGetxo_Wa_122,source_mat_id should match ^EMOBON_PiEGetxo_Wa_221220_3um_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,123,EMOBON_PiEGetxo_Wa_123,source_mat_id should match ^EMOBON_PiEGetxo_Wa_221220_3um_2$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,124,EMOBON_PiEGetxo_Wa_124,source_mat_id should match ^EMOBON_PiEGetxo_Wa_221220_200um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,125,EMOBON_PiEGetxo_Wa_125,source_mat_id should match ^EMOBON_PiEGetxo_Wa_221220_3um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,126,EMOBON_PiEGetxo_Wa_126,source_mat_id should match ^EMOBON_PiEGetxo_Wa_221220_200um_3$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,127,EMOBON_PiEGetxo_Wa_127,source_mat_id should match ^EMOBON_PiEGetxo_Wa_221220_200um_4$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,128,EMOBON_PiEGetxo_Wa_128,source_mat_id should match ^EMOBON_PiEGetxo_Wa_221220_3um_3$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,129,EMOBON_PiEGetxo_Wa_129,source_mat_id should match ^EMOBON_PiEGetxo_Wa_221220_3um_4$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,130,EMOBON_PiEGetxo_Wa_130,source_mat_id should match ^EMOBON_PiEGetxo_Wa_221220_200um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,131,EMOBON_PiEGetxo_Wa_131,source_mat_id should match ^EMOBON_PiEGetxo_Wa_221220_3um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
 datatype mismatch,water,observatory,organization,1,"Research Centre for Experimental Marine Biology and Biotechnology, Plentzia Marine Station",\,/github/workspace/logsheets/filtered/water_observatory.csv,EMOBONList,mandatory
+missing value,water,sampling,arr_date_seq,108,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,mandatory
+missing value,water,sampling,arr_date_seq,109,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,mandatory
+missing value,water,sampling,arr_date_seq,110,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,mandatory
+missing value,water,sampling,arr_date_seq,111,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,mandatory
+missing value,water,sampling,arr_date_seq,120,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,mandatory
+missing value,water,sampling,arr_date_seq,121,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,mandatory
+missing value,water,sampling,arr_date_seq,122,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,mandatory
+missing value,water,sampling,arr_date_seq,123,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,mandatory
+missing value,water,sampling,ship_date_seq,108,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,mandatory
+missing value,water,sampling,ship_date_seq,109,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,mandatory
+missing value,water,sampling,ship_date_seq,110,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,mandatory
+missing value,water,sampling,ship_date_seq,111,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,mandatory
+missing value,water,sampling,ship_date_seq,120,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,mandatory
+missing value,water,sampling,ship_date_seq,121,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,mandatory
+missing value,water,sampling,ship_date_seq,122,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,mandatory
+missing value,water,sampling,ship_date_seq,123,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,mandatory
